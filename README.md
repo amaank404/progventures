@@ -1,6 +1,5 @@
-# **UNDER HEAVY DEVELOPMENT**
-This game is not yet complete and is in heavy
-development. You can not play it as of now.
+# Abandoned
+Why do i abandon my projects? I wonder :/
 
 # Disclaimer
 
